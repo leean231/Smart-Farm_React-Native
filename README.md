@@ -20,5 +20,5 @@ Welcome to Smart Farm, your ultimate companion in modern farm management. This R
 2. Install dependencies using `npm install`.
 3. Navigate to the `frontend` directory and run the app with `npm start`.
 
-Explore, contribute, and help us shape the future of Smart Farm. Let's make it the go-to hub for modern agricultural practices, fostering a community where farmers connect, share, and prosper. Together, let's cultivate success.
+
 
